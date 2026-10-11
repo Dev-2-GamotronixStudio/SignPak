@@ -12,5 +12,109 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c63759a241719a4b80e0a2f474f1618, type: 3}
   m_Name: SignDatabase
   m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.SignDatabaseSO
-  idleClip: {fileID: 0}
-  signs: []
+  idleClip: {fileID: 7400000, guid: 61072bfb88aee934394dafb0625ef591, type: 2}
+  signs:
+  - glossId: 1
+    textMatch: A
+    clip: {fileID: 7400000, guid: 0264bf576b7763b48b9ff9f42a1c4747, type: 2}
+    playbackSpeed: 1
+  - glossId: 2
+    textMatch: B
+    clip: {fileID: 7400000, guid: d65d3a2c5ab066345b16093b392e75e2, type: 2}
+    playbackSpeed: 1
+  - glossId: 3
+    textMatch: C
+    clip: {fileID: 7400000, guid: 476dabdf80ff41640a6e8b2b738104ea, type: 2}
+    playbackSpeed: 1
+  - glossId: 4
+    textMatch: D
+    clip: {fileID: 7400000, guid: 082aedbaa55265d4c8075c0e2f04637e, type: 2}
+    playbackSpeed: 1
+  - glossId: 5
+    textMatch: E
+    clip: {fileID: 7400000, guid: f4efb4d4ce958f049b25a66532b6b75e, type: 2}
+    playbackSpeed: 1
+  - glossId: 6
+    textMatch: F
+    clip: {fileID: 7400000, guid: f9df9ff78e132564f956cb6799beb418, type: 2}
+    playbackSpeed: 1
+  - glossId: 7
+    textMatch: G
+    clip: {fileID: 7400000, guid: 44a8632485995b140b0b09094e1bc4b8, type: 2}
+    playbackSpeed: 1
+  - glossId: 8
+    textMatch: H
+    clip: {fileID: 7400000, guid: fbd15f962293df943861c4690c30479e, type: 2}
+    playbackSpeed: 1
+  - glossId: 9
+    textMatch: I
+    clip: {fileID: 7400000, guid: 573186ad53bf78541b3e57f353315943, type: 2}
+    playbackSpeed: 1
+  - glossId: 10
+    textMatch: J
+    clip: {fileID: 7400000, guid: 298fb2979e8a6c141a3227cd5da5b6cd, type: 2}
+    playbackSpeed: 1
+  - glossId: 11
+    textMatch: K
+    clip: {fileID: 7400000, guid: e6dfa31b8a00fa64789429dc342c7d82, type: 2}
+    playbackSpeed: 1
+  - glossId: 12
+    textMatch: L
+    clip: {fileID: 7400000, guid: cf996c0b4d49a204fae7922b40aa57e7, type: 2}
+    playbackSpeed: 1
+  - glossId: 13
+    textMatch: M
+    clip: {fileID: 7400000, guid: 7bea50f38ee2b6d44b8631f5879a17bb, type: 2}
+    playbackSpeed: 1
+  - glossId: 14
+    textMatch: N
+    clip: {fileID: 7400000, guid: e00715bb107f57c499a7c9c57bb1a3d4, type: 2}
+    playbackSpeed: 1
+  - glossId: 15
+    textMatch: O
+    clip: {fileID: 7400000, guid: 8cd426e54819d9d4f9852173564e8088, type: 2}
+    playbackSpeed: 1
+  - glossId: 16
+    textMatch: P
+    clip: {fileID: 7400000, guid: c607ab4dec1838d489bce086aa0aec5c, type: 2}
+    playbackSpeed: 1
+  - glossId: 17
+    textMatch: Q
+    clip: {fileID: 7400000, guid: 32f9c45fcb6fa4949ac0422b2e111b32, type: 2}
+    playbackSpeed: 1
+  - glossId: 18
+    textMatch: R
+    clip: {fileID: 7400000, guid: e779849f29deb8d4aadaedb0f11f7e7c, type: 2}
+    playbackSpeed: 1
+  - glossId: 19
+    textMatch: S
+    clip: {fileID: 7400000, guid: a9ce9fcc17583a94f86b4d51ec0d82a8, type: 2}
+    playbackSpeed: 1
+  - glossId: 20
+    textMatch: T
+    clip: {fileID: 7400000, guid: b738f0c5cdd324040b37baa5a6967b6b, type: 2}
+    playbackSpeed: 1
+  - glossId: 21
+    textMatch: U
+    clip: {fileID: 7400000, guid: fcc7961f1bd7df148b32447d142ad6d6, type: 2}
+    playbackSpeed: 1
+  - glossId: 22
+    textMatch: V
+    clip: {fileID: 7400000, guid: ee71cc3daf6955f419afa57f3b0a6c1f, type: 2}
+    playbackSpeed: 1
+  - glossId: 23
+    textMatch: W
+    clip: {fileID: 7400000, guid: e560cfaefeec3ad4aab60908f99adb25, type: 2}
+    playbackSpeed: 1
+  - glossId: 24
+    textMatch: X
+    clip: {fileID: 7400000, guid: e4d3b6e4a59fe6f40b20bda52bf18c15, type: 2}
+    playbackSpeed: 1
+  - glossId: 25
+    textMatch: Y
+    clip: {fileID: 7400000, guid: 80f465029c7576344bad5a8eebd63aae, type: 2}
+    playbackSpeed: 1
+  - glossId: 26
+    textMatch: Z
+    clip: {fileID: 7400000, guid: d40a08537c1be3c4598034a85ff4d661, type: 2}
+    playbackSpeed: 1
